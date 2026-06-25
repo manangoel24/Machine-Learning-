@@ -24,7 +24,7 @@ Multiple Linear Regression allows the model to learn from several independent va
 
 Multiple Linear Regression works similarly to Linear Regression but instead of learning from just one feature, it learns from several features simultaneously.
 
-The model studies how each feature—such as the pizza company, pizza name, pizza type, and diameter—contributes to the final pizza price. During training, it assigns a weight to each feature based on how strongly it influences the price.
+The model studies how each feature such as the pizza company, pizza name, pizza type, and diameter contributes to the final pizza price. During training, it assigns a weight to each feature based on how strongly it influences the price.
 
 When a new pizza is provided, the model combines the contribution of all these features to calculate the predicted price.
 
