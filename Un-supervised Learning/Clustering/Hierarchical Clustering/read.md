@@ -1,5 +1,7 @@
 # 🧩 Hierarchical Clustering
 
+### You need to see Clustering/Kmeans/Customer since this algorithm is being linked to previous
+
 ## Overview
 
 Unlike K-Means, Hierarchical Clustering does **not** require us to choose the number of clusters before training.
