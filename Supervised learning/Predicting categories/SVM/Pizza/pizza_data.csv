@@ -1,0 +1,113 @@
+Company,Pizza Name,Type,Size,Diameter,Price,Bought 
+Domino's Pizza,Hand Tossed,Cheeses Pizza,"Small (10"")",10,5.99,0
+Domino's Pizza,Hand Tossed,Cheeses Pizza,"Medium (12"")",12,7.99,1
+Domino's Pizza,Hand Tossed,Cheeses Pizza,"Large (14"")",14,9.99,1
+Domino's Pizza,Handmade Pan,Cheeses Pizza,"Medium (12"")",12,7.99,1
+Domino's Pizza,Crunchy Thin Crust,Cheeses Pizza,"Small (10"")",10,5.99,1
+Domino's Pizza,Crunchy Thin Crust,Cheeses Pizza,"Medium (12"")",12,7.99,1
+Domino's Pizza,Crunchy Thin Crust,Cheeses Pizza,"Large (14"")",14,9.99,1
+Domino's Pizza,Brooklyn Style,Cheeses Pizza,"Large (14"")",14,9.99,1
+Domino's Pizza,Brooklyn Style,Cheeses Pizza,"X-Large (16"")",16,11.99,1
+Domino's Pizza,Gluten Free Crust,Cheeses Pizza,"Small (10"")",10,8.99,1
+Domino's Pizza,Spinach & Feta (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,"Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,0
+Domino's Pizza,"Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Spinach & Feta (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Spinach & Feta (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,1
+Domino's Pizza,Wisconsin 6 Cheese (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,"Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Wisconsin 6 Cheese (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Wisconsin 6 Cheese (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,Honolulu Hawaiian (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,"Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,Honolulu Hawaiian (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Honolulu Hawaiian (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,1
+Domino's Pizza,Philly Cheese Steak (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,"Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Philly Cheese Steak (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Philly Cheese Steak (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,Pacific Veggie (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,"Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,Pacific Veggie (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,Pacific Veggie (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,Cali Chicken Bacon Ranch™ (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,"Cali Chicken Bacon Ranch™ (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Cali Chicken Bacon Ranch™ (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Cali Chicken Bacon Ranch™ (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,Cali Chicken Bacon Ranch™ (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,Fiery Hawaiian™ (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,"Fiery Hawaiian™ (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Fiery Hawaiian™ (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,Fiery Hawaiian™ (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Fiery Hawaiian™ (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,1
+Domino's Pizza,Buffalo Chicken (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,"Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,0
+Domino's Pizza,"Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Buffalo Chicken (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,Buffalo Chicken (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,Memphis BBQ Chicken (Hand Tossed or Thin Crust),Specialty Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,"Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust)",Specialty Pizzas,"Medium (12"")",12,13.99,0
+Domino's Pizza,"Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style)",Specialty Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Memphis BBQ Chicken (Brooklyn Style),Specialty Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,Memphis BBQ Chicken (Gluten Free Crust),Specialty Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,America's Favorite Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,America's Favorite Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Medium (12"")",12,13.99,0
+Domino's Pizza,America's Favorite Feast® (Handmade Pan),Feast Pizzas,"Medium (12"")",12,15.49,1
+Domino's Pizza,"America's Favorite Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,America's Favorite Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,America's Favorite Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",10,14.99,1
+Domino's Pizza,Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,Bacon Cheeseburger Feast® (Handmade Pan),Feast Pizzas,"Medium (12"")",12,15.49,1
+Domino's Pizza,"Bacon Cheeseburger Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,Bacon Cheeseburger Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Bacon Cheeseburger Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",10,14.99,1
+Domino's Pizza,Deluxe Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,Deluxe Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Medium (12"")",12,13.99,0
+Domino's Pizza,Deluxe Feast® (Handmade Pan),Feast Pizzas,"Medium (12"")",12,15.49,0
+Domino's Pizza,"Deluxe Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,Deluxe Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,Deluxe Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,ExtravaganZZa Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,"ExtravaganZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)",Feast Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"ExtravaganZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",14,15.99,1
+Domino's Pizza,ExtravaganZZa Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",16,17.99,1
+Domino's Pizza,ExtravaganZZa Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",10,14.99,0
+Domino's Pizza,MeatZZa Feast® (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",10,11.99,0
+Domino's Pizza,"MeatZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)",Feast Pizzas,"Medium (12"")",12,13.99,0
+Domino's Pizza,"MeatZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,MeatZZa Feast® (Brooklyn Style),Feast Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,MeatZZa Feast® (Gluten Free Crust),Feast Pizzas,"Small (10"")",10,14.99,1
+Domino's Pizza,Ultimate Pepperoni Feast™ (Hand Tossed or Thin Crust),Feast Pizzas,"Small (10"")",10,11.99,1
+Domino's Pizza,"Ultimate Pepperoni Feast™ (Hand Tossed, Handmade Pan or Thin Crust)",Feast Pizzas,"Medium (12"")",12,13.99,1
+Domino's Pizza,"Ultimate Pepperoni Feast™ (Hand Tossed, Thin Crust or Brooklyn Style)",Feast Pizzas,"Large (14"")",14,15.99,0
+Domino's Pizza,Ultimate Pepperoni Feast™ (Brooklyn Style),Feast Pizzas,"X-Large (16"")",16,17.99,0
+Domino's Pizza,Ultimate Pepperoni Feast™ (Gluten Free Crust),Feast Pizzas,"Small (10"")",10,14.99,1
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"Small (10"")",10,12.7,0
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"Medium (12"")",12,16.2,1
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"Large (14"")",14,19.95,1
+IMO's Pizza,Deluxe Pizza,Specialty Pizzas,"X Large (16"")",16,23.85,0
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"Small (10"")",10,12.7,0
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"Medium (12"")",12,16.2,0
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"Large (14"")",14,19.95,1
+IMO's Pizza,Veggie Pizza,Specialty Pizzas,"X Large (16"")",16,23.85,1
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"Small (10"")",10,9.3,1
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"Medium (12"")",12,11.6,0
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"Large (14"")",14,14.45,1
+IMO's Pizza,Cheese Pizza,Specialty Pizzas,"X Large (16"")",16,17.35,1
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"Small (10"")",10,12.7,1
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"Medium (12"")",12,16.2,1
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"Large (14"")",14,19.95,0
+IMO's Pizza,All Meat Pizza,Specialty Pizzas,"X Large (16"")",16,23.85,0
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"Small (10"")",10,12.7,1
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"Medium (12"")",12,16.2,0
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"Large (14"")",14,19.2,1
+IMO's Pizza,BBQ Chicken Pizza,Specialty Pizzas,"X Large (16"")",16,23.85,0
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"Small (10"")",10,11.8,1
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"Medium (12"")",12,14.95,0
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"Large (14"")",14,18.65,0
+IMO's Pizza,Egg-Ceptional Pizza,Specialty Pizzas,"X Large (16"")",16,22.3,1
